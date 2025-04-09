@@ -112,7 +112,7 @@ La aplicación se conecta a una base de datos **PostgreSQL** para obtener la inf
 - **`crear_rutas`**: Agrega rutas al archivo `web.php`, evitando duplicados.
 
 ![image](https://github.com/user-attachments/assets/55e2424d-4cb4-465d-9851-e0beb8462858)
-
+![image](https://github.com/user-attachments/assets/5786f49d-a129-4a16-b056-32a858b75f7f)
 
 ---
 
