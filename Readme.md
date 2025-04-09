@@ -59,6 +59,7 @@ La aplicación se conecta a una base de datos **PostgreSQL** para obtener la inf
 
 1. Ingresa el **host**, **puerto**, **usuario**, **contraseña** y **nombre de la base de datos**.
 2. Haz clic en **"Verificar conexión"** para comprobarla.
+![Uploading image.png…]()
 
 ---
 
