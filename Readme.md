@@ -111,6 +111,9 @@ La aplicación se conecta a una base de datos **PostgreSQL** para obtener la inf
 - **`generar_vistas`**: Genera vistas con formularios y tablas dinámicas.
 - **`crear_rutas`**: Agrega rutas al archivo `web.php`, evitando duplicados.
 
+![image](https://github.com/user-attachments/assets/55e2424d-4cb4-465d-9851-e0beb8462858)
+
+
 ---
 
 ### ⚙️ CRUD dinámico
