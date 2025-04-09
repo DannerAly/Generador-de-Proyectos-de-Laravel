@@ -73,6 +73,8 @@ La aplicación se conecta a una base de datos **PostgreSQL** para obtener la inf
 ---
 
 ### ⚙️ Genera el código:
+![image](https://github.com/user-attachments/assets/75ba0a79-7c05-4a46-89d5-3fb5ce3d5662)
+
 
 1. Haz clic en **"Listar Tablas"** para cargar las tablas de la base de datos.
 2. Selecciona las **tablas** que deseas incluir.
