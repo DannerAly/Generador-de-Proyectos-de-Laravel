@@ -53,6 +53,9 @@ La aplicación se conecta a una base de datos **PostgreSQL** para obtener la inf
 - **Usuario:** `danner`  
 - **Contraseña:** `abelalydel`
 
+![image](https://github.com/user-attachments/assets/64ce47dc-e5e9-4c0e-82d1-b2e4a794197d)
+
+
 ---
 
 ### 🛠️ Configura la conexión a la base de datos PostgreSQL:
